@@ -1,4 +1,7 @@
 package async;
 
-public class AsyncTaskSubmit {
+import entities.Person;
+
+public class AsyncTaskSubmit extends Thread {
+
 }
